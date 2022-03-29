@@ -1,3 +1,6 @@
 pyTelegramBotApi
-googletrans==3.1.0a0
+
 requests
+configparser
+youtube_dl
+pytube
